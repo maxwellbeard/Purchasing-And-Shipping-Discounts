@@ -1,0 +1,7 @@
+D:\Software Development\C# I\Module 6\Final Project\PurchasingAndShipping\bin\Debug\PurchasingAndShipping.exe.config
+D:\Software Development\C# I\Module 6\Final Project\PurchasingAndShipping\bin\Debug\PurchasingAndShipping.exe
+D:\Software Development\C# I\Module 6\Final Project\PurchasingAndShipping\bin\Debug\PurchasingAndShipping.pdb
+D:\Software Development\C# I\Module 6\Final Project\PurchasingAndShipping\obj\Debug\PurchasingAndShipping.csprojAssemblyReference.cache
+D:\Software Development\C# I\Module 6\Final Project\PurchasingAndShipping\obj\Debug\PurchasingAndShipping.csproj.CoreCompileInputs.cache
+D:\Software Development\C# I\Module 6\Final Project\PurchasingAndShipping\obj\Debug\PurchasingAndShipping.exe
+D:\Software Development\C# I\Module 6\Final Project\PurchasingAndShipping\obj\Debug\PurchasingAndShipping.pdb
